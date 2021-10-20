@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <Button
+        android:id="@+id/red_button"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:backgroundTint="@color/red"
+        android:padding="2dp" />
+
+    <Button
+        android:id="@+id/orange_button"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:backgroundTint="@color/orange"
+        android:padding="2dp"/>
+
+    <Button
+        android:id="@+id/yellow_button"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:backgroundTint="@color/yellow"
+        android:padding="2dp"/>
+
+    <Button
+        android:id="@+id/green_button"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:backgroundTint="@color/green"
+        android:padding="2dp"/>
+
+    <Button
+        android:id="@+id/blue_button"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:backgroundTint="@color/lightblue"
+        android:padding="2dp"/>
+
+    <Button
+        android:id="@+id/dark_blue_button"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:backgroundTint="@color/blue"
+        android:padding="2dp"/>
+
+    <Button
+        android:id="@+id/purple_button"
+        style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:backgroundTint="@color/purple"
+        android:padding="2dp"/>
+
+
+</LinearLayout>
